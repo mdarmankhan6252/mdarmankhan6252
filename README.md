@@ -1,6 +1,6 @@
 ### Hi 👋, I'm MD Arman khan
 
-![My Image](https://i.ibb.co/0sLKvt9/github-arman.png)
+![Alt text](https://i.ibb.co/0sLKvt9/github-arman.png)
 ___
 
 ##### ✅ A React.js front-end web Developer.
