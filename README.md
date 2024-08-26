@@ -17,7 +17,7 @@ Hey, I am a front-end web developer having specialized in the front-end developm
 
 ## My GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?mdarmankhan6252=mdarmankhan6252&layout=compact)
 
 ## Connect with me
 
