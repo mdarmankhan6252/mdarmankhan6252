@@ -17,9 +17,10 @@ Hey, I am a front-end web developer having specialized in the front-end developm
 
 ## Connect with me
 
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=briefcase&logoColor=white)](https://yourportfolio.com)
 
 
 
