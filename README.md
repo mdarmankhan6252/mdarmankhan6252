@@ -17,10 +17,10 @@ Hey, I am a front-end web developer having specialized in the front-end developm
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=briefcase&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdarmankhan6252)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021868964533)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mdarmankhan6252)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=briefcase&logoColor=white)](https://mdarmankhan6252.netlify.app)
 
 
 
