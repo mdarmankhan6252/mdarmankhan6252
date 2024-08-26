@@ -1,10 +1,8 @@
 ![Alt text](https://i.imgur.com/n7e5IiG.png)
 
-<p align="center">
-  <h2>
+  <h2 align="center">
     Hi 👋, I'm MD Arman khan
   </h2>
-</p>
 ___
 
 ##### ✅ A React.js front-end web Developer.
