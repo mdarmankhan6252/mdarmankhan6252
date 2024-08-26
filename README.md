@@ -15,11 +15,6 @@ Hey, I am a front-end web developer having specialized in the front-end developm
 - ✔ Custom React.js Component Development
 - ✔ API Integration and Development
 
-## My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=mdarmankhan6252&show_icons=true"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarmankhan6252)](https://github.com/mdarmankhan6252/github-readme-stats)
-
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdarmankhan6252)
