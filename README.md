@@ -17,7 +17,7 @@ Hey, I am a front-end web developer having specialized in the front-end developm
 
 ## My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdarmankhan6252)](https://github.com/mdarmankhan6252/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=mdarmankhan6252&show_icons=true"/>
 
 ## Connect with me
 
