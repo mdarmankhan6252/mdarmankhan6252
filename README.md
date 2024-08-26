@@ -1,7 +1,9 @@
-### Hi 👋, I'm MD Arman khan
-
 ![Alt text](https://i.imgur.com/n7e5IiG.png)
 
+### Hi 👋, I'm MD Arman khan
+<p align="center">
+  <h2>MD Arman Khan</h2>
+</p>
 ___
 
 ##### ✅ A React.js front-end web Developer.
