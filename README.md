@@ -1,8 +1,9 @@
 ![Alt text](https://i.imgur.com/n7e5IiG.png)
 
-### Hi 👋, I'm MD Arman khan
 <p align="center">
-  <h2>MD Arman Khan</h2>
+  <span style="font-family: sans-serif; font-size: 24px; font-weight: bold;">
+    Hi 👋, I'm MD Arman khan
+  </span>
 </p>
 ___
 
