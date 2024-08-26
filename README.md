@@ -4,10 +4,8 @@
     Hi 👋, I'm MD Arman khan
   </h2>
 
-##### ✅ A React.js front-end web Developer.
-
 #### About Me
-Hey, I am "MD Arman khan" and a passionate React.js web developer with a strong focus on front-end development. As a fresher, I bring hands-on experience in building dynamic and responsive web applications. My expertise in React.js allows me to create seamless and interactive user interfaces.In addition to React.js, I am familiar with MongoDB, Express.js, and Node.js, which enhances my ability to work on full-stack projects.
+Hey, I am a front-end web developer having specialized in the front-end development. I have 1.5+ years in the web development field and I am here to build your webstie. I have a lot of experience in React JS, MongoDB, Express JS, Node JS, HTML, CSS3, JavaScript, TailwindCSS, Firebase authentication, Figma, Git, Github & npm packages and many more. I built a lot of websites using React JS with 100% mobile responsive.
 
 
 
