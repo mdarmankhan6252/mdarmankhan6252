@@ -5,7 +5,7 @@
   </h2>
 
 #### About Me
-Hey, I am a front-end web developer having specialized in the front-end development. I have 1.5+ years in the web development field and I am here to build your webstie. I have a lot of experience in React JS, MongoDB, Express JS, Node JS, HTML, CSS3, JavaScript, TailwindCSS, Firebase authentication, Figma, Git, Github & npm packages and many more. I built a lot of websites using React JS with 100% mobile responsive.
+Hey, I am a front-end web developer having specialized in the front-end development. I have 1.5+ years in the web development field and I am here to build your webstie. I have a lot of experience in React JS, MongoDB, Express JS, Node JS, HTML, CSS3, JavaScript, TailwindCSS, Firebase authentication, Figma, Git, Github & npm packages and many more. I built a lot of websites using MERN stack with 100% mobile responsive.
 
 #### My Services:
 - ✔ Figma to React.js Design using Tailwind CSS.
