@@ -22,7 +22,7 @@ Hey, I am a front-end web developer having specialized in the front-end developm
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mdarmankhan6252)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=briefcase&logoColor=white)](https://mdarmankhan6252.netlify.app)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/mdarmankhan6252)
-arman
+
 
 
 
