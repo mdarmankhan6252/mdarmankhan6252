@@ -1,4 +1,4 @@
-![Alt text](https://i.ibb.co.com/3k4k9nk/Untitled-design.png)
+![Alt text](https://i.ibb.co.com/zGpZqgL/Untitled-design-2.png)
 
   <h2 align="center">
     Hi 👋, I'm MD Arman khan
