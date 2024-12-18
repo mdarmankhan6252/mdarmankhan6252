@@ -15,8 +15,7 @@
 <p>✔ 100% Mobile responsive desing.</p>
 <p>✔ Custom React.js Component Development.</p>
 <p>✔ API Integration and Development</p>
-___ 
-
+<br>
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdarmankhan6252)
