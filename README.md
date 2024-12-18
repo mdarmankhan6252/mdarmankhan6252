@@ -10,17 +10,12 @@
 
 #### My Services:
 <p>✔ Figma to React.js Design using Tailwind CSS.</p>
-<p>✔ Figma to React.js Design using Tailwind CSS.</p>
-<p>✔ Figma to React.js Design using Tailwind CSS.</p>
-<p>✔ Figma to React.js Design using Tailwind CSS.</p>
-<p>✔ Figma to React.js Design using Tailwind CSS.</p>
-<p>✔ Figma to React.js Design using Tailwind CSS.</p>
-- 
-- ✔ Website Design & Development.
-- ✔ Firebase Authentication.
-- ✔ 100% Mobile responsive desing.
-- ✔ Custom React.js Component Development
-- ✔ API Integration and Development
+<p>✔ Website Design & Development.</p>
+<p>✔ Firebase Authentication.</p>
+<p>✔ 100% Mobile responsive desing.</p>
+<p>✔ Custom React.js Component Development.</p>
+<p>✔ API Integration and Development</p>
+___ 
 
 ## Connect with me
 
