@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdarmankhan6252)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021868964533)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mdarmankhan6252)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=briefcase&logoColor=white)](https://mdarmankhan6252.netlify.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=briefcase&logoColor=white)](https://mdarmankhan6252.vercel.app)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/mdarmankhan6252)
 
 
