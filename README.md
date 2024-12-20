@@ -5,14 +5,14 @@
   </h2>
 
 #### About Me
-<p align="justify">Hey, I am a junior MERN Stack developer having specialized in the front-end development. I have one+ years experience in the Web Development field and I am here to build your webstie. I have a lot of experience in React JS, MongoDB, Express JS, Node JS, HTML, CSS3, JavaScript, TailwindCSS, Firebase authentication, Figma, Tanstack query, Axios, Git, Github & npm packages and many more. I built a lot of websites using MERN Stack with functionality and 100% mobile responsive.</p>
+<p align="justify">Hey, I am a junior MERN Stack developer specializing in front-end development. I have one year of web development experience and am here to help you build your website. I have a lot of experience in React JS, MongoDB, Express JS, Node JS, HTML, CSS3, JavaScript, TailwindCSS, Firebase authentication, Figma, Tanstack query, Axios, Git, Github & npm packages, and many more. I built a lot of websites using MERN Stack with functionality and 100% mobile responsiveness.</p>
 
 
 #### My Services:
-<p>✔ Figma to React.js Design using Tailwind CSS.</p>
+<p>✔ Figma to React.js.</p>
 <p>✔ Website Design & Development.</p>
 <p>✔ Firebase Authentication.</p>
-<p>✔ 100% Mobile responsive desing.</p>
+<p>✔ 100% Mobile responsive design.</p>
 <p>✔ Custom React.js Component Development.</p>
 <p>✔ API Integration and Development</p>
 
