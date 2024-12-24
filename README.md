@@ -40,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://iili.io/2OkeNsa.png" alt="react-router-dom" width="40" height="40"/> 
+  <img src="https://iili.io/2OkeNsa.png" alt="react-router-dom" width="55" height="40"/> 
 </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
