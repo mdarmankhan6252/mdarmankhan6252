@@ -1,7 +1,7 @@
 ![Alt text](https://i.ibb.co.com/zGpZqgL/Untitled-design-2.png)
 
   <h2 align="center">
-    Hi 👋, I'm MD Arman khan
+    <p> Hi<img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">I'm Arman</p>
   </h2>
 
 #### About Me
