@@ -1,6 +1,5 @@
 ![Alt text](https://i.ibb.co.com/zGpZqgL/Untitled-design-2.png)
-<h2 align="center" padding-bottom="8px"> Hi<img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">I'm Arman</h2>
-<br>
+<h2 align="center"> Hi<img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="40px" height="40px">I'm Arman</h2>
 #### About Me
 <p align="justify">Hey, I am a junior MERN Stack developer specializing in front-end development. I have one year of web development experience and am here to help you build your website. I have a lot of experience in React JS, MongoDB, Express JS, Node JS, HTML, CSS3, JavaScript, TailwindCSS, Firebase authentication, Figma, Tanstack query, Axios, Git, Github & npm packages, and many more. I built a lot of websites using MERN Stack with functionality and 100% mobile responsiveness.</p>
 
