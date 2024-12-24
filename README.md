@@ -54,6 +54,9 @@
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> 
     <img src="https://axios-http.com/assets/logo.svg" alt="axios" width="40" height="40"/> 
   </a> 
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://redux.js.org/img/redux.svg" alt="axios" width="40" height="40"/> 
+  </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
