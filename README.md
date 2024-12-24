@@ -76,7 +76,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mdarmankhan6252)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=briefcase&logoColor=white)](https://mdarmankhan6252.vercel.app)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/mdarmankhan6252)
-[![Dev]()](https://dev.to/mdarmankhan6252)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/mdarmankhan6252)
 
 
 
