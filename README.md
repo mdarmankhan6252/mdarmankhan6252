@@ -13,6 +13,12 @@
 <p>✔ Custom React.js Component Development.</p>
 <p>✔ API Integration and Development</p>
 
+### Languages Used
+
+![Languages](https://img.shields.io/github/languages/top/mdarmankhan6252/YourRepository)
+![Percentage](https://img.shields.io/github/languages/code-size/mdarmankhan6252/YourRepository)
+
+
 ### Language and tools
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
