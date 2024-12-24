@@ -49,7 +49,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
   <a href="https://tanstack.com/query/v4/" target="_blank" rel="noreferrer"> 
-    <img src="https://tanstack.com/img/logo.svg" alt="tanstack query" width="40" height="40"/> 
+    <img src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" alt="tanstack query" width="40" height="40"/> 
   </a> 
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> 
     <img src="https://axios-http.com/assets/logo.svg" alt="axios" width="40" height="40"/> 
