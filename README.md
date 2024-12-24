@@ -1,5 +1,4 @@
 ![Alt text](https://i.ibb.co.com/zGpZqgL/Untitled-design-2.png)
-
   <h2 align="center">
     <h2 align="center"> Hi<img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">I'm Arman</h2>
   </h2>
