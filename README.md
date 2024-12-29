@@ -4,7 +4,6 @@
 ### About Me
 <p align="justify">I am a junior <b>MERN Stack</b> developer specializing in front-end development. I have one year of web development experience and am here to help you build your website. I have a lot of experience in <b>React JS, MongoDB, Express JS, Node JS, HTML, CSS3, JavaScript, TailwindCSS, Firebase authentication, Figma, Tanstack query, Axios, Git, Github & npm packages</b>, and many more. I built many websites using <b>MERN Stack</b> with functionality and 100% mobile responsiveness.</p>
 
-
 #### My Services:
 <p>✔ Figma to React.js.</p>
 <p>✔ Website Design & Development.</p>
@@ -12,12 +11,6 @@
 <p>✔ 100% Mobile responsive design.</p>
 <p>✔ Custom React.js Component Development.</p>
 <p>✔ API Integration and Development</p>
-
-### Languages Used
-
-![Languages](https://img.shields.io/github/languages/top/mdarmankhan6252/YourRepository)
-![Percentage](https://img.shields.io/github/languages/code-size/mdarmankhan6252/YourRepository)
-
 
 ### Language and tools
 <p align="left">
