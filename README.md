@@ -2,7 +2,7 @@
 <h2 align="center"> Hi<img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="40px" height="40px">I'm Arman</h2>
 
 ### About Me
-<p align="justify">I am a junior <b>MERN Stack</b> developer specializing in front-end development. I have one year of web development experience and am here to help you build your website. I have a lot of experience in <b>React JS, MongoDB, Express JS, Node JS, HTML, CSS3, JavaScript, TailwindCSS, Firebase authentication, Figma, Tanstack query, Axios, Git, Github & npm packages</b>, and many more. I built many websites using <b>MERN Stack</b> with functionality and 100% mobile responsiveness.</p>
+<p align="justify">Hi, I am a <b>Full Stack Web Developer</b>. I have two years of web development experience. I have a clear understanding of React, Next JS, Express, Node, MongoDB, PostgreSQL, AWS, HTML, CSS3, JavaScript, Typescript, TailwindCSS, Firebase & OAuth authentication, Figma, Tanstack query, Axios, Git, Github & npm packages, and many more.</p>
 
 #### My Services:
 <p>✔ Figma to React.js.</p>
