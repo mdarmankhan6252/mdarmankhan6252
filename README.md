@@ -2,7 +2,7 @@
 <h2 align="center"> Hi<img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="40px" height="40px">I'm Arman</h2>
 
 ### About Me
-<p align="justify">Hi, I am a <b>Full Stack Web Developer</b>. I have two years of web development experience. I have a clear understanding of React, Next JS, Express, Node, MongoDB, PostgreSQL, AWS, HTML, CSS3, JavaScript, Typescript, TailwindCSS, Firebase & OAuth authentication, Figma, Tanstack query, Axios, Git, Github & npm packages, and many more.</p>
+<p align="justify">Hi, I am a <b>Full Stack Web Developer</b>. I have two years+ of web development experience. I have a clear understanding of React, Next JS, Express, Node, MongoDB, PostgreSQL, AWS, HTML, CSS3, JavaScript, Typescript, TailwindCSS, Firebase & OAuth authentication, Figma, Tanstack query, Axios, Git, Github & npm packages, and many more.</p>
 
 #### My Services:
 <p>✔ Figma to React.js.</p>
