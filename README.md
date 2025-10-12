@@ -5,11 +5,11 @@
 <p align="justify">Hi, I am a <b>Full Stack Web Developer</b>. I have two years+ of web development experience. I have a clear understanding of React, Next JS, Express, Node, MongoDB, PostgreSQL, AWS, HTML, CSS3, JavaScript, Typescript, TailwindCSS, Firebase & OAuth authentication, Figma, Tanstack query, Axios, Git, Github & npm packages, and many more.</p>
 
 #### My Services:
-✔ Figma to React.js / Next.js Conversion
-✔ Full Website Design & Development
-✔ Firebase & OAuth Authentication
-✔ Fully Responsive Web Design
-✔ Custom React.js Component Development
+- Figma to React.js / Next.js Conversion
+- Full Website Design & Development
+- Firebase & OAuth Authentication
+- Fully Responsive Web Design
+- Custom React.js Component Development
 
 ### Language and tools
 <p align="left">
