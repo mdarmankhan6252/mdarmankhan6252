@@ -5,7 +5,11 @@
 <p align="justify">Hi, I am a <b>Full Stack Web Developer</b>. I have two years+ of web development experience. I have a clear understanding of React, Next JS, Express, Node, MongoDB, PostgreSQL, AWS, HTML, CSS3, JavaScript, Typescript, TailwindCSS, Firebase & OAuth authentication, Figma, Tanstack query, Axios, Git, Github & npm packages, and many more.</p>
 
 #### My Services:
-<p align="justify"> ✔ <b>UI/UX to Front-End Development:</b> Convert Figma or design prototypes into fully functional and visually appealing React.js or Next.js applications.<br> ✔ <b>Custom Web Application Development:</b> Build scalable, high-performance web solutions tailored to your business needs using the MERN or Next.js stack.<br> ✔ <b>Authentication & Security Integration:</b> Implement secure user authentication using Firebase, OAuth, and JWT for robust access control.<br> ✔ <b>Responsive & Modern Design:</b> Develop pixel-perfect, mobile-friendly interfaces optimized for all devices using Tailwind CSS and modern UI practices.<br> ✔ <b>Reusable Component Development:</b> Create clean, maintainable, and reusable React components to ensure consistency and scalability across projects. </p>
+✔ Figma to React.js / Next.js Conversion
+✔ Full Website Design & Development
+✔ Firebase & OAuth Authentication
+✔ Fully Responsive Web Design
+✔ Custom React.js Component Development
 
 ### Language and tools
 <p align="left">
