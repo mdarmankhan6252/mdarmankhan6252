@@ -1,4 +1,4 @@
-![Alt text](https://i.ibb.co.com/zGpZqgL/Untitled-design-2.png)
+![Alt text](https://i.ibb.co.com/Jj9csnpB/Full-Stack-Web-Developer.jpg)
 <h2 align="center"> Hi<img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="40px" height="40px">I'm Arman</h2>
 
 ### About Me
