@@ -1,5 +1,4 @@
-![Alt text](https://i.ibb.co.com/Jj9csnpB/Full-Stack-Web-Developer.jpg)
-<h2 align="center"> Hi<img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="40px" height="40px">I'm Arman</h2>
+<h2 align="center"> Hi<img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="40px" height="40px">I'm MD Arman Khan</h2>
 
 ### About Me
 <p align="justify">I am a Full Stack Web Developer specializing in building modern, scalable web applications using TypeScript, React.js, Next.js, Node.js, Express.js, and MongoDB. I work extensively with Tailwind CSS, Shadcn UI, TanStack Query, Axios, and integrate tools like Git, GitHub, and npm into my workflow.</p>
